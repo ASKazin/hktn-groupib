@@ -1,12 +1,13 @@
-# HKTN
+# Startup Hackathon 12|21
+
+###Трек от Group-IB. Business Email Compromise Detection
+
+В последнее годы особенной популярностью у хакеров начали пользоваться атаки с использованием компрометации деловой переписки (Business Email Compromise). Такие атаки не требуют технических знаний, просты в реализации и имеют высокую эффективность, а защититься от них традиционными средствами практически невозможно. По данным ФБР ущерб от таких атак в 2020 году составил более 1,8 млрд долларов США. В рамках данного кейса Вам предстоит разобраться в различных техниках проведения BEC-атак и разработать подходы, позволяющие обнаруживать их на ранних стадиях.
+
 Requirements:
-* Python 3.6+
-* NumPy (pip install numpy)
-* Pandas (pip install pandas)
-* Scikit-learn (pip install scikit-learn)
-* joblib (pip install joblib)
-* glob (pip install glob)
-* MatplotLib (pip install matplotlib)
-* mailparser (pip install mailparser)
-* nltk (pip install nltk)
-* wordcloud (pip install wordcloud)
+* pandas
+* numpy
+* mailbox
+* re
+* sklearn
+* scipy
