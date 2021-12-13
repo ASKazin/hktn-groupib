@@ -1,0 +1,6 @@
+pandas
+numpy
+mailbox
+re
+sklearn
+scipy
